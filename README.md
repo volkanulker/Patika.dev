@@ -1,2 +1,2 @@
 # Patika.dev
-* Patika dev sitesinde ilerlediğim patikaların ödevlerini ve gerekli dokümantasyonları bu repoda tutuyor olacağım.
+* I will be keeping the assignments and necessary documentation of the paths on Patika.dev
